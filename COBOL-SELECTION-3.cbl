@@ -1,5 +1,4 @@
-      *    3. Write a code that will input for a number then
-      *       identify whether odd or even number.
+      *    3. Write a COBOL code that will input for a number then identify whether odd or even number.
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. ODD-EVEN-PROGRAM.
