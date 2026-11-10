@@ -1,4 +1,4 @@
-// 3. Write a code that will input for a number then identify whether odd or even number.
+// 3. Write a C++ code that will input for a number then identify whether odd or even number.
 
 #include <iostream>
 using namespace std;
